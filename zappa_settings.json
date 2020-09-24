@@ -5,6 +5,6 @@
         "project_name": "flask-zappa-tut",
         "runtime": "python3.7",
         "s3_bucket": "zappa-9cf4j0c1h",
-        "aws_region": "us-west-2"
+        "aws_region": "eu-west-3"
     }
 }
